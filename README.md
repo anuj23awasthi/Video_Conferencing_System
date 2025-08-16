@@ -1,4 +1,8 @@
 
+<p align="center">
+	<img src="frontend/public/logo3.png" alt="Apna Video Call Logo" width="120" />
+</p>
+
 # 📹 Video Conferencing System
 
 A real-time peer-to-peer video conferencing system built with MERN Stack, WebRTC, and Socket.IO, supporting secure authentication, encrypted calls, messaging, and screen sharing.
@@ -35,22 +39,23 @@ A real-time peer-to-peer video conferencing system built with MERN Stack, WebRTC
 
 ## 📸 Screenshots
 
-Below are some screenshots from the application
+
+Below are some screenshots from the application:
+
+### 🏠 Home Page
+![Home Page](screenshots/Screenshot%202025-08-16%20223536.png)
+
+### 📝 Sign Up Page
+![Sign Up Page](screenshots/Screenshot%202025-08-16%20223602.png)
 
 ### 🔑 Login Page
-![Login Page](screenshots/Screenshot%202025-08-16%20223536.png)
+![Login Page](screenshots/Screenshot%202025-08-16%20223620.png)
 
-### 🎥 Video Call in Action
-![Video Call](screenshots/Screenshot%202025-08-16%20223602.png)
+### 👤 Join as Guest
+![Join as Guest](screenshots/Screenshot%202025-08-16%20223650.png)
 
-### 💬 Chat & Messaging
-![Chat & Messaging](screenshots/Screenshot%202025-08-16%20223620.png)
-
-### 🖥 Screen Sharing
-![Screen Sharing](screenshots/Screenshot%202025-08-16%20223650.png)
-
-### 👥 Dashboard / Room Page
-![Dashboard / Room](screenshots/Screenshot%202025-08-16%20223947.png)
+### 🎥 Meeting Page
+![Meeting Page](screenshots/Screenshot%202025-08-16%20223947.png)
 
 ---
 
